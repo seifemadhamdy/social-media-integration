@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SocialMediaIntegration.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/black</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/lg_splashscreen_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.SocialMediaIntegration</item>
+    </style>
+</resources>

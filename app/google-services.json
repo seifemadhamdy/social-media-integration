@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "60720454459",
+    "project_id": "social-media-integration-f653f",
+    "storage_bucket": "social-media-integration-f653f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60720454459:android:0f4739c1f96bdedb13351e",
+        "android_client_info": {
+          "package_name": "seifemadhamdy.socialmediaintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60720454459-s3pti4stqhvj71bonp8m3acq81e7o0ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "seifemadhamdy.socialmediaintegration",
+            "certificate_hash": "fed8bea6c5e714cadc78b24f918e619dd5ba34ba"
+          }
+        },
+        {
+          "client_id": "60720454459-mgaf7m5c3h71eh9uu0dcjkepa8jo2r96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5mVgcV3gAS--sfX17RoLmiCm0jE7TNOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60720454459-mgaf7m5c3h71eh9uu0dcjkepa8jo2r96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

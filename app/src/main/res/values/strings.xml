@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="howdy">Howdy!</string>
+    <string name="welcome_to_quot_social_media_integration_quot_app">Welcome to \"Social Media Integration\" app!</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="continue_with_facebook">Continue With Facebook</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="undefined">Undefined</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="Close">Close</string>
+    <string name="facebook_app_id">794432178972677</string>
+    <string name="fb_login_protocol_scheme">fb794432178972677</string>
+    <string name="facebook_client_token">48c74cbf05af5e3c0003c4aa638bb097</string>
+</resources>
